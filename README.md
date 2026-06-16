@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🧩 Hashing Collision in C
+# Hashing Collision in C
 
-### A clean and beginner-friendly C program for exploring hash functions and collision handling techniques.
+### A C program for exploring hash functions and collision handling techniques.
 
 <br>
 
@@ -192,16 +192,10 @@ cd hashing-collision
 
 ### 2. Compile the program
 
-If your source file is named `File.c`, run:
+Run this by using :
 
 ```bash
 gcc File.c -o hashing_collision
-```
-
-If you rename the file to something cleaner, such as `hashing_collision.c`, run:
-
-```bash
-gcc hashing_collision.c -o hashing_collision
 ```
 
 ### 3. Run the program
@@ -220,7 +214,7 @@ For macOS or Linux:
 
 ---
 
-## 📂 Recommended Repository Structure
+## 📂 Repository Structure
 
 ```text
 hashing-collision/
@@ -228,23 +222,6 @@ hashing-collision/
 ├── File.c
 └── README.md
 ```
-
-For a cleaner project structure, you can rename `File.c` to:
-
-```text
-hashing_collision.c
-```
-
-Recommended structure:
-
-```text
-hashing-collision/
-│
-├── hashing_collision.c
-└── README.md
-```
-
----
 
 ## 🎯 Project Goals
 
@@ -260,23 +237,9 @@ This project is especially useful for learning:
 
 ---
 
-## 📝 Notes for Future Improvements
-
-Here are a few ideas that could make this project even better:
-
-- Add a search feature for existing keys
-- Add a delete feature for removing keys
-- Allow users to reset the hash table without restarting the program
-- Improve duplicate checking for linear probing and rehashing
-- Add clearer input validation for menu choices
-- Support larger table sizes
-- Display the selected hash function and collision method in the final output
-
----
-
 ## 👨‍💻 Author
 
-**Erlangga Putra Mahardika**  
+**Erlangga  Mahardika**  
 Repository: `hashing-collision`
 
 ---
@@ -285,6 +248,6 @@ Repository: `hashing-collision`
 
 ### ⭐ Thanks for checking out this project!
 
-If this project helped you learn hashing and collision handling, consider giving the repository a star.
+If this project helped you, consider giving the repository a star.
 
 </div>
