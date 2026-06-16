@@ -17,9 +17,9 @@
 
 ## 📌 Project Overview
 
-This project is a **C-based hash table program** designed to demonstrate how different hashing methods work and how collisions can be handled inside a fixed-size hash table.
+This project is a **C based hash table program** designed to demonstrate how different hashing methods work and how collisions can be handled inside a fixed size hash table.
 
-The program allows users to choose a hashing technique, select a collision-handling method, insert string keys, and display the final hash table structure. It is a great learning project for understanding how data can be mapped into table indexes and what happens when multiple keys produce the same index.
+The program allows users to choose a hashing technique, select a collision handling method, insert string keys, and display the final hash table structure. It is a great learning project for understanding how data can be mapped into table indexes and what happens when multiple keys produce the same index.
 
 ---
 
@@ -27,8 +27,8 @@ The program allows users to choose a hashing technique, select a collision-handl
 
 - Supports multiple hashing methods
 - Handles collisions using different strategies
-- Stores string-based keys
-- Prevents duplicate key insertion in chaining-based lookups
+- Stores string based keys
+- Prevents duplicate key insertion in chaining based lookups
 - Displays the full hash table after insertion
 - Uses dynamic memory allocation for chained nodes
 - Cleans up allocated memory before the program exits
